@@ -1,0 +1,16 @@
+
+        Fecha del reporte: 2019-11-10
+        Hora del reporte: 10:22:33 PM
+        Cantidad total de pedidos: 5
+        Cantidad de Pedidos Delivery: 1
+		Cantidad de Muzzarela: 2
+		Cantidad de Napolitana: 1
+		Cantidad de Americana: 1
+        Cantidad de Fugazzeta: 1
+        Cantidad de Pizzas Grandes: 1
+	    Cantidad de Pizzas Medianas: 3
+        Cantidad de Pizzas Personales: 1
+        Cantidad de Pedidos con Bebidas: 2
+        Cantidad de Pedidos de Clientes Habituales: 1
+        Cantidad de Empanadas Regaladas: 3
+	
